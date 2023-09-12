@@ -1,0 +1,26 @@
+{
+    "Enabled": true,
+    "Speed": 3000,
+    "Avatar": "https://i.etsystatic.com/13015978/r/il/218ac6/2026689079/il_fullxfull.2026689079_4bjr.jpg",
+    "Icon": "https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/25_Campaign_Launch-256.png",
+    "Emoji_Set_1": [
+        "🛸",
+        "🛸🛸"
+    ],
+    "Emoji_Set_2": [
+        "🌌",
+        "🌌🌌"
+    ],
+    "Messages": [
+        "Specialist - Banging your mom.",
+        "Developer - Discounts available!",
+        "Methods - Unique and custom for sale!",
+        "Nerded - A company for nerds."
+    ],
+    "Buttons": [
+        {
+            "label": "🔨 ➥ Order Services",
+            "url": "https://simplyexperts.net"
+        }
+    ]
+}

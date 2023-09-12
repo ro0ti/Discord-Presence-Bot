@@ -1,0 +1,16 @@
+{
+    "Autoload": {
+        "Enabled": true,
+        "Client": "flash"
+    },
+    "Client_ID": "960015467597168641",
+    "Client_Scopes": [
+        "rpc", "rpc.api", "identify", "guilds", "rpc.voice.read"
+    ],
+    "Client_Transport": "ipc",
+    "Client_PathManager": {
+        "Blink_Config": "./blink/config.json",
+        "Blink_Presence": "./blink/presence.json",
+        "Normal_Presence": "./presence.json"
+    }
+}
